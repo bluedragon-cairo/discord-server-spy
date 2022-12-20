@@ -1,0 +1,8 @@
+frmMain = 80, 140, 843, 748, , 36, 34, 801, 636, C
+JSON = 135, 177, 910, 789, C
+cStringBuilder = 0, 0, 0, 0, C
+cJSONScript = 0, 0, 0, 0, C
+Main = 233, 256, 998, 858, 
+frmAuthentication = 66, 87, 936, 647, C, 91, 119, 866, 731, C
+frmGuildList = 135, 144, 910, 756, , 3, 3, 778, 615, C
+StdPictureEx = 113, 148, 888, 760, C
